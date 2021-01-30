@@ -1,14 +1,19 @@
-import logo from './logo.svg';
+
 import './App.css';
-import {FormSection} from './Component/Forms/FormSection'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import { Landing } from './Components/HomePage/Landing';
+
 
 
 function App() {
   return (
     <div className="App">
-      <FormSection />
+      <Landing/>
+      
     </div>
+    
+
+      
+    
   );
 }
 
