@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+#root>div>div>form{
+
+  padding: 50px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px;
+ 
+  margin:200px 400px;
+  width: 500px;
+}
 
 .App-logo {
   height: 40vmin;

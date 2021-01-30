@@ -7,16 +7,16 @@ export const FormSection = () => {
                 <Form.Row>
                     <Form.Group as={Col} controlId="formGridName">
                         <Form.Label>Name</Form.Label>
-                        <Form.Control type="text" placeholder="Enter First Name" />
+                        <Form.Control type="text" placeholder="First Name" />
                     </Form.Group>
 
                     <Form.Group as={Col} controlId="formGridName">
                         <Form.Label>Middle Name</Form.Label>
-                        <Form.Control type="text" placeholder="Enter Middle Name" />
+                        <Form.Control type="text" placeholder="Middle Name" />
                     </Form.Group>
                     <Form.Group as={Col} controlId="formGridPasswordName">
                         <Form.Label>Last Name</Form.Label>
-                        <Form.Control type="text" placeholder="Enter Last Name" />
+                        <Form.Control type="text" placeholder="Last Name" />
                     </Form.Group>
                 </Form.Row>
                 <Form.Row>
