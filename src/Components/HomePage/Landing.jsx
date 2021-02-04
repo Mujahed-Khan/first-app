@@ -1,5 +1,5 @@
 import React from 'react';
-import { MainHeader } from '../HeaderSection/MainBodyHeader/MainHeader';
+import { MainHeader } from '../A-HeaderSection/MainBodyHeader/MainHeader';
 
 export const Landing = () => {
     return (
